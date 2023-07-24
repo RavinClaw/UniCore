@@ -2,5 +2,5 @@
 
 void Start()
 {
-  std::cout << "[UniCore] Starting Unicore...";
+  std::cout << "[UniCore] Starting UniCore...";
 }
