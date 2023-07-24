@@ -4,6 +4,7 @@
 int main()
 {
   int counter = 0;
+  Start()
   while (true)
   {
     std::cout << "Counter: ";
